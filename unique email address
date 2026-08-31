@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int numUniqueEmails(vector<string>& emails) {
+        unordered_set<string> st;
+        for (string email : emails) {
+            string temp="";
+            int i=0;
+            while(email[i]!='@') {
+                if(email[i]=='+') {
+                    while(email[i]!='@') {
+                        i++;
+                    }
+                    break;
+                }
+                if(email[i]!='.') {
+                    temp+=email[i];
+                }
+                i++;
+            }
+            temp+=email.substr(i);
+            st.insert(temp);
+        }
+        return st.size();
+    }
+};
