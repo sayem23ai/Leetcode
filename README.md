@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sayem23ai/Leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/sayem23ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sayem23ai/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sayem23ai/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sayem23ai/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sayem23ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sayem23ai/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sayem23ai/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sayem23ai/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sayem23ai/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sayem23ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
