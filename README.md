@@ -6,6 +6,7 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sayem23ai/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sayem23ai/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sayem23ai/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sayem23ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sayem23ai/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sayem23ai/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sayem23ai/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sayem23ai/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -90,6 +92,7 @@
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sayem23ai/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sayem23ai/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Union-Find
 |  |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/sayem23ai/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sayem23ai/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
