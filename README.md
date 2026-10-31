@@ -29,6 +29,7 @@
 | [0075-sort-colors](https://github.com/sayem23ai/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sayem23ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/sayem23ai/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sayem23ai/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/sayem23ai/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/sayem23ai/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sayem23ai/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sayem23ai/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sayem23ai/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/sayem23ai/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/sayem23ai/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sayem23ai/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sayem23ai/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sayem23ai/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
