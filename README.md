@@ -30,6 +30,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sayem23ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/sayem23ai/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/sayem23ai/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2270-number-of-ways-to-split-array](https://github.com/sayem23ai/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sayem23ai/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sayem23ai/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sayem23ai/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sayem23ai/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/sayem23ai/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2270-number-of-ways-to-split-array](https://github.com/sayem23ai/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sayem23ai/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
