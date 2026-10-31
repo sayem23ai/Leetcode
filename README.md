@@ -29,6 +29,7 @@
 | [0075-sort-colors](https://github.com/sayem23ai/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sayem23ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/sayem23ai/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/sayem23ai/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sayem23ai/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sayem23ai/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sayem23ai/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sayem23ai/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/sayem23ai/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
