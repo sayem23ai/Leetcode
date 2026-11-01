@@ -6,6 +6,7 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sayem23ai/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sayem23ai/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/sayem23ai/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sayem23ai/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
@@ -107,6 +108,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sayem23ai/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sayem23ai/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/sayem23ai/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/sayem23ai/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/sayem23ai/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sayem23ai/Leetcode/tree/master/2574-left-and-right-sum-differences) |
